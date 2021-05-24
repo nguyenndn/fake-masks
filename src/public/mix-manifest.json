@@ -1,0 +1,18 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/app.js.map": "/js/app.js.map",
+    "/css/app.css.map": "/css/app.css.map",
+    "/assets/plugins/sweetalert2/sweetalert2.min.js": "/assets/plugins/sweetalert2/sweetalert2.min.js",
+    "/assets/plugins/sweetalert2/sweetalert2.min.css": "/assets/plugins/sweetalert2/sweetalert2.min.css",
+    "/assets/plugins/datatables-net/jquery.dataTables.js": "/assets/plugins/datatables-net/jquery.dataTables.js",
+    "/assets/plugins/datatables-net/dataTables.bootstrap4.css": "/assets/plugins/datatables-net/dataTables.bootstrap4.css",
+    "/assets/plugins/datatables-net-bs4/dataTables.bootstrap4.js": "/assets/plugins/datatables-net-bs4/dataTables.bootstrap4.js",
+    "/assets/plugins/progressbar-js/progressbar.min.js": "/assets/plugins/progressbar-js/progressbar.min.js",
+    "/assets/plugins/select2/select2.min.js": "/assets/plugins/select2/select2.min.js",
+    "/assets/plugins/select2/select2.min.css": "/assets/plugins/select2/select2.min.css",
+    "/assets/plugins/dropzone/dropzone.min.js": "/assets/plugins/dropzone/dropzone.min.js",
+    "/assets/plugins/dropzone/dropzone.min.css": "/assets/plugins/dropzone/dropzone.min.css",
+    "/assets/plugins/bootstrap-colorpicker/bootstrap-colorpicker.min.js": "/assets/plugins/bootstrap-colorpicker/bootstrap-colorpicker.min.js",
+    "/assets/plugins/bootstrap-colorpicker/bootstrap-colorpicker.min.css": "/assets/plugins/bootstrap-colorpicker/bootstrap-colorpicker.min.css"
+}
